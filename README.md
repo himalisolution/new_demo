@@ -1,1 +1,1 @@
-test
+This is feature 2 file.
